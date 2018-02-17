@@ -15,19 +15,19 @@ I am a PhD student at [Otto von Guericke Universität Magdeburg](www.ovgu.de) in
 **Polytope der 0-1-Optimierung mit einem quadratischen Term**
 Master thesis, OvGU Magdeburg (2014)
 supervised by [Volker Kaibel](http://www.math.uni-magdeburg.de/~kaibel/) 
-[pdf](masterarbeit.pdf)
+([pdf](masterarbeit.pdf))
 
 **Fooling sets and rank**
 With Aya Hamed, Troy Lee and Dirk Oliver Theis,
-__European Journal of Combinatorics__ (2015)
-[arXiv.1208.2920](https://arxiv.org/abs/1208.2920)
+_European Journal of Combinatorics_ (2015)
+([arXiv.1208.2920](https://arxiv.org/abs/1208.2920))
 
 **Fooling-sets and rank in nonzero characteristic (extended abstract)**
 With Dirk Oliver Theis
-__Proceedings of EuroComb__ (2013) 383--390
-[arXiv.1305.2468](https://arxiv.org/abs/1305.2468)
+_Proceedings of EuroComb_ (2013) 383--390
+([arXiv.1305.2468](https://arxiv.org/abs/1305.2468))
 
 **Foolingsets und erweiterte Formulierungen**
 Bachelor thesis, OvGU Magdeburg (2012)
 supervised by [Dirk Oliver Theis](https://www.theory.cs.ut.ee/people/dot)
-[pdf](bachelorarbeit.pdf)
+([pdf](bachelorarbeit.pdf))
