@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Mirjam Friesen
 
-You can use the [editor on GitHub](https://github.com/maehjam/maehjam.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![](profil.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a PhD student at [Otto von Guericke Universität Magdeburg](www.ovgu.de) in the [discrete optimization group](http://www.math.uni-magdeburg.de/institute/imo/ag_kaibel/).
 
-### Markdown
+### Short CV
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Since 2014: PhD Student under supervision of [Volker Kaibel](http://www.math.uni-magdeburg.de/~kaibel/) at _OvGU Magdeburg_
+- 2014: Master of Science _OvGU Magdeburg_
+- 2012: Bachelor of Science _OvGU Magdeburg_
 
-```markdown
-Syntax highlighted code block
+### Publications
 
-# Header 1
-## Header 2
-### Header 3
+**Polytope der 0-1-Optimierung mit einem quadratischen Term**
+Master thesis, OvGU Magdeburg (2014)
+supervised by [Volker Kaibel](http://www.math.uni-magdeburg.de/~kaibel/) 
+[pdf](masterarbeit.pdf)
 
-- Bulleted
-- List
+**Fooling sets and rank**
+With Aya Hamed, Troy Lee and Dirk Oliver Theis,
+__European Journal of Combinatorics__ (2015)
+[arXiv.1208.2920](https://arxiv.org/abs/1208.2920)
 
-1. Numbered
-2. List
+**Fooling-sets and rank in nonzero characteristic (extended abstract)**
+With Dirk Oliver Theis
+__Proceedings of EuroComb__ (2013) 383--390
+[arXiv.1305.2468](https://arxiv.org/abs/1305.2468)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maehjam/maehjam.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Foolingsets und erweiterte Formulierungen**
+Bachelor thesis, OvGU Magdeburg (2012)
+supervised by [Dirk Oliver Theis](https://www.theory.cs.ut.ee/people/dot)
+[pdf](bachelorarbeit.pdf)
