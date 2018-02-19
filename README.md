@@ -4,6 +4,20 @@
 
 I am a PhD student at [Otto von Guericke Universität Magdeburg](www.ovgu.de) in the [discrete optimization group](http://www.math.uni-magdeburg.de/institute/imo/ag_kaibel/).
 
+### Adress
+Institute for Mathematical Optimization (IMO)
+
+Otto-von-Guericke-Universität Magdeburg
+
+Universitätsplatz 2
+
+39106 Magdeburg, Germany 
+
+office: G02-207b
+
+email: [mirjam.friesen@ovgu.de](mailto:mirjam.friesen@ovgu.de)
+
+
 ### Short CV
 
 - Since 2017: Associated fellow of the DFG-Graduiertenkolleg Mathematische Komplexitätsreduction [MathCoRe](https://www.mathcore.ovgu.de/)
