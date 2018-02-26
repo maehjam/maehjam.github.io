@@ -15,7 +15,7 @@ email: [mirjam.friesen@ovgu.de](mailto:mirjam.friesen@ovgu.de)
 
 ### Short CV
 
-- Since 2017: Associated fellow of the DFG-Graduiertenkolleg Mathematische Komplexitätsreduction [MathCoRe](https://www.mathcore.ovgu.de/)
+- Since 2017: Associated fellow of the DFG-Graduiertenkolleg Mathematische Komplexitätsreduktion [MathCoRe](https://www.mathcore.ovgu.de/)
 - Since 2014: PhD Student under supervision of [Volker Kaibel](http://www.math.uni-magdeburg.de/~kaibel/) at _OvGU Magdeburg_
 - 2014: Master of Science _OvGU Magdeburg_
 - 2012: Bachelor of Science _OvGU Magdeburg_
