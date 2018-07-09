@@ -20,7 +20,11 @@ email: [mirjam.friesen@ovgu.de](mailto:mirjam.friesen@ovgu.de)
 - 2014: Master of Science _OvGU Magdeburg_
 - 2012: Bachelor of Science _OvGU Magdeburg_
 
-### Publications
+### Publications and Presentations
+
+**Extended formulations for higher-order spanning tree polytops**
+Presentation at IMSP (2018)
+([pdf](ismp2018.pdf))
 
 **Polytope der 0-1-Optimierung mit einem quadratischen Term**  
 Master thesis, OvGU Magdeburg (2014)
