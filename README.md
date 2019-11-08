@@ -1,30 +1,19 @@
 # Mirjam Friesen
 
-I am a PhD student at [Otto von Guericke Universität Magdeburg](www.ovgu.de) in the [discrete optimization group](http://www.math.uni-magdeburg.de/institute/imo/ag_kaibel/).
-
-### Adress
-Institute for Mathematical Optimization (IMO)  
-Otto-von-Guericke-Universität Magdeburg  
-Universitätsplatz 2  
-39106 Magdeburg, Germany  
-
-office: G02-207b
-
-email: [mirjam.friesen@ovgu.de](mailto:mirjam.friesen@ovgu.de)
-
-
 ### Short CV
 
-- Since 2017: Associated fellow of the DFG-Graduiertenkolleg Mathematische Komplexitätsreduktion [MathCoRe](https://www.mathcore.ovgu.de/)
-- Since 2014: PhD Student under supervision of [Volker Kaibel](http://www.math.uni-magdeburg.de/~kaibel/) at _OvGU Magdeburg_
+- since Oct 2019: Software developer at Dipl. Phys. Peer Stritzinger GmbH
+- 2017-2019: Associated fellow of the DFG-Graduiertenkolleg Mathematische Komplexitätsreduktion [MathCoRe](https://www.mathcore.ovgu.de/)
+- 2014-2019: PhD Student under supervision of [Volker Kaibel](http://www.math.uni-magdeburg.de/~kaibel/) at _OvGU Magdeburg_
 - 2014: Master of Science _OvGU Magdeburg_
 - 2012: Bachelor of Science _OvGU Magdeburg_
 
-### Publications and Presentations
+### Publications and Theses
 
-**Extended formulations for higher-order spanning tree polytops**
-Presentation at IMSP (2018)
-([pdf](ismp2018.pdf))
+**Extended formulations for higher order polytopes in combinatorial optimization**
+PhD thesis, OvGU Magdeburg (2019)
+supervised by [Volker Kaibel](http://www.math.uni-magdeburg.de/~kaibel/) 
+([DOI](http://dx.doi.org/10.25673/25397))
 
 **Polytope der 0-1-Optimierung mit einem quadratischen Term**  
 Master thesis, OvGU Magdeburg (2014)
