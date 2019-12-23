@@ -1,10 +1,13 @@
-# Mirjam Friesen
+# Dr Mirjam Friesen
 
 ### Short CV
 
 - since Oct 2019: Software developer at Dipl. Phys. Peer Stritzinger GmbH
-- 2017-2019: Associated fellow of the DFG-Graduiertenkolleg Mathematische Komplexitätsreduktion [MathCoRe](https://www.mathcore.ovgu.de/)
-- 2014-2019: PhD Student under supervision of [Volker Kaibel](http://www.math.uni-magdeburg.de/~kaibel/) at _OvGU Magdeburg_
+- 2019: Dr. rer. nat. *OvGU MAGDEBURG*
+- 2017-2019: Associated fellow of the DFG-Graduiertenkolleg Mathematische
+Komplexitätsreduktion [MathCoRe](https://www.mathcore.ovgu.de/)
+- 2014-2019: PhD Student under supervision of [Volker Kaibel]
+(http://www.math.uni-magdeburg.de/~kaibel/) at _OvGU Magdeburg_
 - 2014: Master of Science _OvGU Magdeburg_
 - 2012: Bachelor of Science _OvGU Magdeburg_
 
