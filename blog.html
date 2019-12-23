@@ -3,7 +3,10 @@ layout: default
 title: Blog
 permalink: /blog/
 ---
-<div>{% site.posts.first %}</div>
+  {% assign post = site.posts.first %}
+<div>
+  {{ post.content }}
+</div>
 <ul>
   {% for post in site.posts offset:1 %}
     <li>
