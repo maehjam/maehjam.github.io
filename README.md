@@ -1,4 +1,4 @@
-# Dr Mirjam Friesen
+# Dr. Mirjam Friesen
 
 ### Short CV
 
