@@ -5,7 +5,15 @@ permalink: /blog/
 ---
   {% assign post = site.posts.first %}
 <div>
+<small>{{ post.date | date: "%-d %B %Y" }}</small>
+<h1>{{ post.title }}</h1>
+
+<p class="view">by {{ post.author | default: site.author }}</p>
   {{ post.content }}
+
+{% if page.tags %}
+  <small><em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+{% endif %}
 </div>
 <ul>
   {% for post in site.posts offset:1 %}

@@ -9,6 +9,6 @@ layout: default
 
 {{content}}
 
-{% if page.tags != "" %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+{% if page.tags %}
+  <small><em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
