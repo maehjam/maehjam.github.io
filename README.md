@@ -3,7 +3,7 @@
 ### Short CV
 
 - since Oct 2019: Software developer at Dipl. Phys. Peer Stritzinger GmbH
-- 2019: Dr. rer. nat. *OvGU MAGDEBURG*
+- 2019: Dr. rer. nat. *OvGU Magdeburg*
 - 2017-2019: Associated fellow of the DFG-Graduiertenkolleg Mathematische
 Komplexitätsreduktion [MathCoRe](https://www.mathcore.ovgu.de/)
 - 2014-2019: PhD Student under supervision of [Volker Kaibel]
