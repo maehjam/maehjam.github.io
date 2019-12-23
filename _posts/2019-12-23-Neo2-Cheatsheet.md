@@ -2,7 +2,6 @@
 layout: post 
 title: Neo2 Cheatsheet
 date: 2019-12-23
-category: neo
 ---
 
 I'm using my christmas vacation to learn the Neo2 keyboard layout and I can 
