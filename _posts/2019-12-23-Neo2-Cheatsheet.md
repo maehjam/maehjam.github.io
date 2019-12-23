@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: post 
 title: Neo2 Cheatsheet
 date: 2019-12-23
 category: neo
@@ -10,5 +10,5 @@ proudly announce that I'm writing this (my first post) using it. I don't like
 the images I found on the internet that much, so I decided to create my own 
 Neo2 cheatisheet. Et voila! Here it is.
 
-![Neo2 Cheatsheet](/neo.png) 
+![Neo2 Cheatsheet](/neo.png)
 
